@@ -37,3 +37,5 @@ $ npm run test:cov
 ```
 
 ## Accessing the Swagger interface
+
+While the application is running, go to http://localhost:3000/api

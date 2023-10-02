@@ -39,3 +39,4 @@ $ npm run test:cov
 ## Accessing the Swagger interface
 
 While the application is running, go to http://localhost:3000/api
+![screencapture-localhost-3000-api-2023-10-02-15_34_41](https://github.com/Itheum/demos-nestjs-itheum-backend-service/assets/44813558/972c0368-356c-4b93-b944-7838230b2d1b)
